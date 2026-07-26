@@ -25,10 +25,7 @@ I take full ownership of what I build — from architecture to deployment — an
 
 𝐀𝐠𝐢𝐥𝐞 & 𝐓𝐞𝐚𝐦 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: Comfortable working in structured Agile environments using Jira, Monday.com, Slack, and Git-based workflows — collaborating effectively across frontend, backend, design, and product teams.
 
-🛠️ Tech Stack
+<br>
+<br>
 
-Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image Show Image
-
-🤖 AI Workflow
-
-Show Image Show Image Show Image Show Image
+## 💻 My Github Stats:
