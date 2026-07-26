@@ -1,10 +1,12 @@
 ## 💫 About Me
 
 I am a Software Engineer with 2 years of experience specializing in building modern, scalable, and production-grade web applications. I have worked on enterprise compliance platforms, multi-tenant SaaS products, and client-facing applications for international clients across regulated industries.
+
 I take full ownership of what I build — from architecture to deployment — and I care deeply about clean code, maintainable structure, and delivering meaningful user experiences.
 
-* LinkedIn: Hamza Saddique
-* Portfolio: 
+### * Portfolio:
+### * LinkedIn: Hamza Saddique
+### * Schedule Consultation :
 
 💻 My Expertise Includes
 
