@@ -9,8 +9,7 @@ I take full ownership of what I build — from architecture to deployment — an
 * **Schedule Consultation:**
 
 
-
-# My Expertise Includes
+## 💻 𝐌𝐲 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐈𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
 
 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Proficient in React.js, Next.js, and TypeScript — building responsive, high-performance user interfaces with clean component architecture and reusable design systems using Tailwind CSS and Material UI.
 
