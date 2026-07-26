@@ -1,14 +1,11 @@
 #### 💫 About Me
 
 I am a Software Engineer with 2 years of experience specializing in building modern, scalable, and production-grade web applications. I have worked on enterprise compliance platforms, multi-tenant SaaS products, and client-facing applications for international clients across regulated industries.
-
 I take full ownership of what I build — from architecture to deployment — and I care deeply about clean code, maintainable structure, and delivering meaningful user experiences.
 
+* LinkedIn: Hamza Saddique
+* Portfolio: 
 
-🌐 LinkedIn: Hamza Saddique
-💻 GitHub: hamzamarwatt
-📧 Email: hamzasaddique43@gmail.com
-📍 Location: Islamabad, Pakistan
 💻 My Expertise Includes
 
 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Proficient in React.js, Next.js, and TypeScript — building responsive, high-performance user interfaces with clean component architecture and reusable design systems using Tailwind CSS and Material UI.
