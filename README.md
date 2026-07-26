@@ -4,9 +4,9 @@ I am a Software Engineer with 2 years of experience specializing in building mod
 
 I take full ownership of what I build — from architecture to deployment — and I care deeply about clean code, maintainable structure, and delivering meaningful user experiences.
 
-* **Portfolio:**
+* **Portfolio:** [Hamza Saddique](https://www.linkedin.com/in/hamza-saddique/)
 * **LinkedIn:** [Hamza Saddique](https://www.linkedin.com/in/hamza-saddique/)
-* **Schedule Consultation:**
+* **Schedule Consultation:** [One-on-One Consultation with Hamza](https://calendly.com/hamzasaddique43/30min)
 
 <br>
 <br>
