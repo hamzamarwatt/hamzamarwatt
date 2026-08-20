@@ -9,7 +9,6 @@ I take full ownership of what I build — from architecture to deployment — an
 
 
 <br>
-<br>
 
 ## 💻 𝐌𝐲 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐈𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
 
@@ -25,7 +24,6 @@ I take full ownership of what I build — from architecture to deployment — an
 
 𝐀𝐠𝐢𝐥𝐞 & 𝐓𝐞𝐚𝐦 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: Comfortable working in structured Agile environments using Jira, Monday.com, Slack, and Git-based workflows — collaborating effectively across frontend, backend, design, and product teams.
 
-<br>
 <br>
 
 # 💻 Tech Stack:
